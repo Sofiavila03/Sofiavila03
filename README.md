@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning TypeScript and GO<br>🎯 Goals: get my first job in IT</p>
+<p align="left">📚 I'm currently learning TypeScript and GO<br>🎯 Goals: get my first job it</p>
 
 ###
 
@@ -61,6 +61,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/vila-sofia" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
