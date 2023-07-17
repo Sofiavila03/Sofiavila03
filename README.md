@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Sofía and I'm a Full-Stack Developer from Argentina</p>
+<p align="left">I am Sofía, a passionate data analyst. Since 2021, I have been diving deep into the study and development of this discipline.
+
+However, this year I decided to take it a step further and started studying Full-Stack Development. I was excited about the idea of combining my data knowledge with creating interactive and functional interfaces.</p>
 
 ###
 
